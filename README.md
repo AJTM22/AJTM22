@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AJTM22
 - 👀 I’m interested in video games, programming, anime, and manga
-- 🌱 I’m currently learning C, C++, C#, Java, Python, and R
+- 🌱 I’ve learned C
+- 🌱 I’m currently learning Weka and R
+- 🌱 I've learned and now honing my skills on C++, C#, Java, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - tadinaarvinjay@gmail.com
 
